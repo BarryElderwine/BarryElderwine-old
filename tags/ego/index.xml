@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ego on A Site:</title>
+    <link>https://BarryElderwine.github.io/tags/ego/</link>
+    <description>Recent content in ego on A Site:</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://BarryElderwine.github.io/tags/ego/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write out in the open</title>
+      <link>https://BarryElderwine.github.io/posts/write-out-in-the-open/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://BarryElderwine.github.io/posts/write-out-in-the-open/</guid>
+      <description>Reasoning &amp;lsquo;A Site Four Sore Eyes&amp;rsquo; This is place where I can publish my ideas for the audience of me. I have an ever growing number of thixotropic reasons for setting up this platform. Probably the greatest overarching rationale is to give me a place where I can get the persistent ruminations out of my head and out in the open. This, in my fuzzy uncheckable logic, might, just might, provide some analogue time and digital space between my, in-this-moment thoughts, and my many later-moments-reviews, allowing me to take them in with fresher or simply differently focused eyes.</description>
+    </item>
+  </channel>
+</rss>
