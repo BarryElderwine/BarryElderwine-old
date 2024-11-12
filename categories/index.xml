@@ -6,34 +6,55 @@
     <description>Recent content in Categories on Four Sore Eyes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://BarryElderwine.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EyeRub</title>
-      <link>https://BarryElderwine.github.io/categories/eyerub/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://BarryElderwine.github.io/categories/eyerub/</guid>
+      <title>Health</title>
+      <link>https://BarryElderwine.github.io/categories/health/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://BarryElderwine.github.io/categories/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Humanity</title>
       <link>https://BarryElderwine.github.io/categories/humanity/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://BarryElderwine.github.io/categories/humanity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medicine</title>
+      <link>https://BarryElderwine.github.io/categories/medicine/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://BarryElderwine.github.io/categories/medicine/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
       <link>https://BarryElderwine.github.io/categories/personal/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://BarryElderwine.github.io/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
       <link>https://BarryElderwine.github.io/categories/science/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://BarryElderwine.github.io/categories/science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://BarryElderwine.github.io/categories/technology/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://BarryElderwine.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EyeRub</title>
+      <link>https://BarryElderwine.github.io/categories/eyerub/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://BarryElderwine.github.io/categories/eyerub/</guid>
       <description></description>
     </item>
   </channel>
