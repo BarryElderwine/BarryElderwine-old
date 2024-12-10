@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Medicine on Four Sore Eyes</title>
-    <link>https://BarryElderwine.github.io/categories/medicine/</link>
+    <link>http://localhost:1313/categories/medicine/</link>
     <description>Recent content in Medicine on Four Sore Eyes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://BarryElderwine.github.io/categories/medicine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/medicine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Balance Between Discovery and Generativity</title>
-      <link>https://BarryElderwine.github.io/eyerubs/the-balance-between-discovery-and-generativity/</link>
+      <link>http://localhost:1313/eyerubs/the-balance-between-discovery-and-generativity/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://BarryElderwine.github.io/eyerubs/the-balance-between-discovery-and-generativity/</guid>
-      <description>I think it may the case that the vastness, and rapid rate of movement, of information made available by the internet has created the illusion that access to personally integrable knowledge is easier than it must actually be. Discovery is seductive. The immediacy of access to answers to every question that finds the attention offers the feeling of accomplishment of understanding. But this can&amp;rsquo;t be the case. Our brains don&amp;rsquo;t process information at this rate and if one doesn&amp;rsquo;t give the mind, not only the time, but also the appropriate framing of information, then this information is as fleeting in the mind as the chemical messengers that mediate the felt connection.</description>
+      <guid>http://localhost:1313/eyerubs/the-balance-between-discovery-and-generativity/</guid>
+      <description>&lt;p&gt;I think it may the case that the vastness, and rapid rate of movement, of information made available by the internet has created the illusion that access to personally integrable knowledge is easier than it must actually be. Discovery is seductive. The immediacy of access to answers to every question that finds the attention offers the feeling of accomplishment of understanding. But this can&amp;rsquo;t be the case. Our brains don&amp;rsquo;t process  information at this rate and if one doesn&amp;rsquo;t give the mind, not only the time,  but also the appropriate framing of information, then this information is as fleeting in the mind as the chemical messengers that mediate the felt connection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eye Rubs that help me see things more clearly</title>
+      <link>http://localhost:1313/eyerubs/eye-rubs-that-help-me-see-things-more-clearly/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eyerubs/eye-rubs-that-help-me-see-things-more-clearly/</guid>
+      <description>&lt;p&gt;Eye rubs are relatively quick thoughts that feel like they might be insightful but have not been given sufficient attention to warrant a longer form post.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

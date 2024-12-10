@@ -2,70 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://BarryElderwine.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/tags/eyerub/</loc>
+    <loc>http://localhost:1313/tags/eyerub/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/eyerubs/</loc>
+    <loc>http://localhost:1313/eyerubs/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/categories/health/</loc>
+    <loc>http://localhost:1313/categories/health/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/categories/humanity/</loc>
+    <loc>http://localhost:1313/categories/humanity/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/categories/medicine/</loc>
+    <loc>http://localhost:1313/categories/medicine/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/categories/personal/</loc>
+    <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/categories/science/</loc>
+    <loc>http://localhost:1313/categories/science/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/categories/technology/</loc>
+    <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/eyerubs/the-balance-between-discovery-and-generativity/</loc>
+    <loc>http://localhost:1313/eyerubs/the-balance-between-discovery-and-generativity/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/eyerubs/is-there-a-bridge/</loc>
+    <loc>http://localhost:1313/eyerubs/is-there-a-bridge/</loc>
     <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/eyerubs/human-focused-technology/</loc>
+    <loc>http://localhost:1313/eyerubs/human-focused-technology/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/tags/condecision/</loc>
+    <loc>http://localhost:1313/eyerubs/eye-rubs-that-help-me-see-things-more-clearly/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/condecision/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/condecision/condecision/</loc>
+    <loc>http://localhost:1313/condecision/condecision/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/condecision/</loc>
+    <loc>http://localhost:1313/condecision/dictionary/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/condecision/emplosion/</loc>
+    <loc>http://localhost:1313/condecision/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/condecision/nuclear-emplosion/</loc>
+    <loc>http://localhost:1313/condecision/emplosion/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/posts/2024/240219-consciousness-made-with-natural-and-artificial-flavors/</loc>
+    <loc>http://localhost:1313/condecision/nuclear-emplosion/</loc>
+    <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/240219-consciousness---made-with-natural-and-artificial-flavors/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://BarryElderwine.github.io/posts/2024/240213-write-out-in-the-open/</loc>
+    <loc>http://localhost:1313/posts/2024/240213-write-out-in-the-open/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url>
 </urlset>
