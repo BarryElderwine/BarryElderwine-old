@@ -2,43 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Condecisions on Four Sore Eyes</title>
-    <link>http://localhost:1313/condecision/</link>
+    <link>https://BarryElderwine.github.io/condecision/</link>
     <description>Recent content in Condecisions on Four Sore Eyes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condecision/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BarryElderwine.github.io/condecision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Condecision</title>
-      <link>http://localhost:1313/condecision/condecision/</link>
+      <link>https://BarryElderwine.github.io/condecision/condecision/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condecision/condecision/</guid>
+      <guid>https://BarryElderwine.github.io/condecision/condecision/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Condecision&lt;/strong&gt;: A state where decision making is impeded for an awareness that whatever decision is made the consequences are likely to have a net negative outcome.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Condecision</title>
-      <link>http://localhost:1313/condecision/dictionary/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condecision/dictionary/</guid>
-      <description>&lt;p&gt;The following is a running list of words inspired by &lt;strong&gt;The Dictionary of Obscure Sorrows&lt;/strong&gt;  by &lt;a href=&#34;https://www.amazon.com/John-Koenig/e/B09431Y7TT/ref=dp_byline_cont_book_1&#34;&gt;John Koenig&lt;/a&gt;
-These are &lt;a href=&#34;http://www.foursoreeyes.com/eyerubs/eye-rubs-that-help-me-see-things-more-clearly/&#34;&gt;EyeRubs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Condecision&lt;/strong&gt;: A state where decision making is impeded for an awareness that whatever decision is made the consequences are likely to have a net negative outcome.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Emplosion&lt;/strong&gt;: An occurrence when ones empathic sensibilities contribute  to a state of condecision to the point of emotional, cognitive and behavioral collapse.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nuclear Emplosion&lt;/strong&gt; A special case of &lt;em&gt;&lt;strong&gt;emplosion&lt;/strong&gt;&lt;/em&gt; when ones empathic sensibilities are spread across 2 or more others whose needs are in conflict each other.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Emplosion</title>
-      <link>http://localhost:1313/condecision/emplosion/</link>
+      <link>https://BarryElderwine.github.io/condecision/emplosion/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condecision/emplosion/</guid>
+      <guid>https://BarryElderwine.github.io/condecision/emplosion/</guid>
       <description>&lt;p&gt;condecion
 &lt;strong&gt;Emplosion&lt;/strong&gt;: An occurrence when ones empathic sensibilities contribute  to a state of condecision to the point of emotional, cognitive and behavioral collapse.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nuclear Emplosion</title>
-      <link>http://localhost:1313/condecision/nuclear-emplosion/</link>
+      <link>https://BarryElderwine.github.io/condecision/nuclear-emplosion/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condecision/nuclear-emplosion/</guid>
+      <guid>https://BarryElderwine.github.io/condecision/nuclear-emplosion/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Nuclear Emplosion&lt;/strong&gt; A special case of &lt;em&gt;&lt;strong&gt;emplosion&lt;/strong&gt;&lt;/em&gt; when ones empathic sensibilities are spread across 2 or more others whose needs are in conflict each other.&lt;/p&gt;</description>
     </item>
   </channel>
