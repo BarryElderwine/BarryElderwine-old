@@ -4,7 +4,7 @@ Project: "[[🤓FourSoreEyes]]"
 Notes: 
 title: Get it out
 date: 2025-02-10
-draft: true
+draft: false
 categories:
   - Personal
 tags:
