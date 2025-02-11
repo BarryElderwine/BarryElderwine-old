@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>eyerub on Four Sore Eyes</title>
-    <link>https://BarryElderwine.github.io/eyerubs/</link>
+    <link>http://localhost:1313/eyerubs/</link>
     <description>Recent content in eyerub on Four Sore Eyes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://BarryElderwine.github.io/eyerubs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/eyerubs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GIT TEST</title>
-      <link>https://BarryElderwine.github.io/eyerubs/test-git/</link>
+      <link>http://localhost:1313/eyerubs/test-git/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://BarryElderwine.github.io/eyerubs/test-git/</guid>
+      <guid>http://localhost:1313/eyerubs/test-git/</guid>
       <description>&lt;p&gt;Please work&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Balance Between Discovery and Generativity</title>
-      <link>https://BarryElderwine.github.io/eyerubs/the-balance-between-discovery-and-generativity/</link>
+      <link>http://localhost:1313/eyerubs/the-balance-between-discovery-and-generativity/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://BarryElderwine.github.io/eyerubs/the-balance-between-discovery-and-generativity/</guid>
+      <guid>http://localhost:1313/eyerubs/the-balance-between-discovery-and-generativity/</guid>
       <description>&lt;p&gt;I think it may the case that the vastness, and rapid rate of movement, of information made available by the internet has created the illusion that access to personally integrable knowledge is easier than it must actually be. Discovery is seductive. The immediacy of access to answers to every question that finds the attention offers the feeling of accomplishment of understanding. But this can&amp;rsquo;t be the case. Our brains don&amp;rsquo;t process  information at this rate and if one doesn&amp;rsquo;t give the mind, not only the time,  but also the appropriate framing of information, then this information is as fleeting in the mind as the chemical messengers that mediate the felt connection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is there a bridge?</title>
-      <link>https://BarryElderwine.github.io/eyerubs/is-there-a-bridge/</link>
+      <link>http://localhost:1313/eyerubs/is-there-a-bridge/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://BarryElderwine.github.io/eyerubs/is-there-a-bridge/</guid>
+      <guid>http://localhost:1313/eyerubs/is-there-a-bridge/</guid>
       <description>&lt;p&gt;I found the video &lt;a href=&#34;https://www.youtube.com/watch?v=rEXymLAqqIs&#34;&gt;Why I Converted to Christianity - Ayaan Hirsi Ali&lt;/a&gt; to be oddly reassuring. Alex O&amp;rsquo;Conner does a very nice job of revealing the both the reason and emotion behind his Ayaan&amp;rsquo;s, views, behavior and the values that underly them. This approach to discussion is nearly all but lost in everyday discourse nowadays.  I&amp;rsquo;ve suggested this video to some friends and,  in explaining to them why I think it&amp;rsquo;s worth the time and attention, they each wanted to argue against the reasoning of Ayaan solely based on my representation of her perspectives. This of course underscores the very issue I&amp;rsquo;m trying to raise. It appears the starting point of any discussion now is almost a strike first posture, coming from either side, feeling the need change the mind of the other with &amp;ldquo;common sense&amp;rdquo; reasoning. So why did I find this discussion between Alex and Ayaan so reassuring in spite of the fact that Ayaan seems to me to be so clearly misguided? I do believe that her perspectives are emotionally honest. This somewhat quells my anxiety that comes from my own lack of empathy for those who, to me, feel like they are intentionally being discompassionate and intellectually dishonest. It seems clear that Ayaan is at her core is a compassionate person. So a reasonable explanation for her support for, what I believe are, irrational and unkind perspectives is that her history and experience have put her in a place to receive bad information and develop bias blinded viewpoints with this information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evaluating Technology</title>
-      <link>https://BarryElderwine.github.io/eyerubs/human-focused-technology/</link>
+      <link>http://localhost:1313/eyerubs/human-focused-technology/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://BarryElderwine.github.io/eyerubs/human-focused-technology/</guid>
+      <guid>http://localhost:1313/eyerubs/human-focused-technology/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m very curious about the purpose of technology. Specifically my intuitions, based of course on my value driven biases, lead me to believe that all technology should or at least could be evaluated based on its ability to enhance some aspect of humanity and the trade-offs. I think this is supported by the fact that technology, by definition, is always a product of human innovation. This notion however may not hold true with the advent of Artificial Intelligence.
 Some thoughts I want to explore in this regard:&lt;/p&gt;</description>
     </item>
