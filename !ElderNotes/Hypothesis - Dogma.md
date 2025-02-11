@@ -1,0 +1,3 @@
+#OMS/hyp
+Dogma provides security. It is human nature to accept the dogma of ones tribe so long as it is not challenged by circumstances that challenge ones security in the face of the dogmatic belief system. Dogma supercedes reason because it requires less cognitive load. Compartmentalizing this way allow the individual the ability to apply problem solving to how rather than why?
+Predictability = security

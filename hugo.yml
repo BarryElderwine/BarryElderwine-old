@@ -1,0 +1,31 @@
+baseURL: 'https://BarryElderwine.github.io/'
+languageCode: 'en-us'
+title: 'Four Sore Eyes'
+theme: PaperMod
+enableDebug: true
+params:
+  label:
+    icon: '/img/FSE2Color.jpg' # Adjust as needed
+    iconHeight: 50 # Optional: Adjust the height
+  profileMode:
+    enabled: true
+    title: 'Four Sore Eyes' # optional
+    subtitle: 'to manage empathy fatigue'
+    imageUrl: /img/FSE2Color.jpg # optional
+    imageTitle: 'logo' # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+menu:
+  main:
+    - identifier: posts
+      name: 'Posts'
+      url: /posts/
+      weight: 10
+    - identifier: categories
+      name: 'Categories'
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: 'Tags'
+      url: /tags/
+      weight: 20

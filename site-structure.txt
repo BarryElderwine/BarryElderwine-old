@@ -1,0 +1,333 @@
+.
+├── !ElderNotes
+│   ├── 231205toBE.md
+│   ├── 231219toBE.md
+│   ├── BE- Getting organized through chemistry.md
+│   ├── BE.001 Insurrection Iʼm struggling to get motivated..md
+│   ├── BE.002 Kinetics Of Action.md
+│   ├── BE.003 One can only imagine.md
+│   ├── Conflatulation.md
+│   ├── Empathy is misleading.md
+│   ├── Equalizing on opportunity  cost.md
+│   ├── How to think about capitalism.md
+│   ├── Hugo's surgery costs don't impact my survival.md
+│   ├── Hypotheses about consciousness.md
+│   ├── Hypothesis - ADD = Hedging.md
+│   ├── Hypothesis - Different sources of gratification.md
+│   ├── Hypothesis - Dogma.md
+│   ├── Hypothesis - Gamification.md
+│   ├── Hypothesis - Habits reduce cognitived load.md
+│   ├── Hypothesis - Why we organize.md
+│   ├── Mindful creativity - obs.md
+│   ├── No more events 231013.md
+│   ├── Notes on consciousness 240227.md
+│   ├── Personal determinants of mental health.md
+│   ├── Remembering names.md
+│   ├── Science is a process of understanding.md
+│   ├── Shape of my heart magician on AGT.md
+│   ├── The loneliness paradox.md
+│   ├── Thoughts on attention deficit.md
+│   ├── Time is Money.md
+│   └── Two faces of  curiosity.md
+├── .DS_Store
+├── .hugo_build.lock
+├── .obsidian
+│   ├── app.json
+│   ├── appearance.json
+│   ├── core-plugins-migration.json
+│   ├── core-plugins.json
+│   └── workspace.json
+├── 4se.sh
+├── FSEColor.png
+├── Untitled.md
+├── archetypes
+│   └── default.md
+├── assets
+├── content
+│   ├── .DS_Store
+│   ├── condecision
+│   │   ├── Condecision.md
+│   │   ├── Dictionary.md
+│   │   ├── Emplosion.md
+│   │   └── Nuclear Emplosion.md
+│   ├── eyerubs
+│   │   ├── Human Focused Technology.md
+│   │   ├── Is there a bridge.md
+│   │   ├── The Balance Between Discovery and Generativity.md
+│   │   └── _index.md
+│   └── posts
+│       ├── .DS_Store
+│       └── 2024
+│           ├── 240213 Write out in the open.md
+│           └── 240219 Consciousness - Made with Natural and Artificial Flavors.md
+├── data
+├── deploy.sh
+├── hugo.yml
+├── i18n
+├── layouts
+│   ├── .DS_Store
+│   ├── _default
+│   │   ├── _markup
+│   │   │   └── render-image.html
+│   │   ├── archives.html
+│   │   ├── baseof.html
+│   │   ├── index.json
+│   │   ├── list.html
+│   │   ├── rss.xml
+│   │   ├── search.html
+│   │   ├── single.html
+│   │   └── terms.html
+│   └── partials
+│       ├── anchored_headings.html
+│       ├── author.html
+│       ├── breadcrumbs.html
+│       ├── comments.html
+│       ├── cover.html
+│       ├── edit_post.html
+│       ├── extend_footer.html
+│       ├── extend_head.html
+│       ├── footer.html
+│       ├── head.html
+│       ├── header.html
+│       ├── home_info.html
+│       ├── index_profile.html
+│       ├── post_canonical.html
+│       ├── post_meta.html
+│       ├── post_nav_links.html
+│       ├── share_icons.html
+│       ├── social_icons.html
+│       ├── svg.html
+│       ├── tag_descriptions.html
+│       ├── templates
+│       │   ├── opengraph.html
+│       │   ├── schema_json.html
+│       │   └── twitter_cards.html
+│       ├── toc.html
+│       └── translation_list.html
+├── site-structure.txt
+├── static
+│   ├── .DS_Store
+│   ├── css
+│   │   └── custom
+│   │       └── custom.css
+│   ├── favicon.ico
+│   ├── img
+│   │   ├── .DS_Store
+│   │   ├── FSE1.jpg
+│   │   ├── FSE2.jpg
+│   │   └── FSE2Color.jpg
+│   └── media
+│       └── summer1.m4a
+├── themes
+│   ├── .DS_Store
+│   └── PaperMod
+│       ├── .DS_Store
+│       ├── .git
+│       │   ├── COMMIT_EDITMSG
+│       │   ├── FETCH_HEAD
+│       │   ├── HEAD
+│       │   ├── ORIG_HEAD
+│       │   ├── config
+│       │   ├── description
+│       │   ├── hooks
+│       │   │   ├── applypatch-msg.sample
+│       │   │   ├── commit-msg.sample
+│       │   │   ├── fsmonitor-watchman.sample
+│       │   │   ├── post-update.sample
+│       │   │   ├── pre-applypatch.sample
+│       │   │   ├── pre-commit.sample
+│       │   │   ├── pre-merge-commit.sample
+│       │   │   ├── pre-push.sample
+│       │   │   ├── pre-rebase.sample
+│       │   │   ├── pre-receive.sample
+│       │   │   ├── prepare-commit-msg.sample
+│       │   │   ├── push-to-checkout.sample
+│       │   │   └── update.sample
+│       │   ├── index
+│       │   ├── info
+│       │   │   └── exclude
+│       │   ├── logs
+│       │   │   ├── HEAD
+│       │   │   └── refs
+│       │   │       ├── heads
+│       │   │       │   └── master
+│       │   │       └── remotes
+│       │   │           └── origin
+│       │   │               ├── HEAD
+│       │   │               └── master
+│       │   ├── objects
+│       │   │   ├── 4c
+│       │   │   │   └── c4b9a17c6cc10b9c2ed0f96a526b4794602223
+│       │   │   ├── 91
+│       │   │   │   └── 281f51478d697948d9e7a02414cbf28a029cf9
+│       │   │   ├── 92
+│       │   │   │   └── e7354338e3bf28154d4bcddc6f2c0ed0da8f7f
+│       │   │   ├── e5
+│       │   │   │   └── b8236774378689647a0042ff5d8977be511377
+│       │   │   ├── info
+│       │   │   └── pack
+│       │   │       ├── pack-064884481bd8927ad19514d57da30dd97ffb9fb9.idx
+│       │   │       ├── pack-064884481bd8927ad19514d57da30dd97ffb9fb9.pack
+│       │   │       ├── pack-63502e8a36fb4e1276cf0b1dcdfa9c3ca6a61961.idx
+│       │   │       └── pack-63502e8a36fb4e1276cf0b1dcdfa9c3ca6a61961.pack
+│       │   ├── packed-refs
+│       │   ├── refs
+│       │   │   ├── heads
+│       │   │   │   └── master
+│       │   │   ├── remotes
+│       │   │   │   └── origin
+│       │   │   │       ├── HEAD
+│       │   │   │       └── master
+│       │   │   └── tags
+│       │   │       └── v8.0
+│       │   └── shallow
+│       ├── .github
+│       │   ├── ISSUE_TEMPLATE
+│       │   │   ├── bug.yaml
+│       │   │   ├── config.yml
+│       │   │   └── enhancement.yaml
+│       │   ├── PULL_REQUEST_TEMPLATE.md
+│       │   └── workflows
+│       │       └── gh-pages.yml
+│       ├── .hugo_build.lock
+│       ├── LICENSE
+│       ├── README.md
+│       ├── assets
+│       │   ├── css
+│       │   │   ├── common
+│       │   │   │   ├── 404.css
+│       │   │   │   ├── archive.css
+│       │   │   │   ├── footer.css
+│       │   │   │   ├── header.css
+│       │   │   │   ├── main.css
+│       │   │   │   ├── post-entry.css
+│       │   │   │   ├── post-single.css
+│       │   │   │   ├── profile-mode.css
+│       │   │   │   ├── search.css
+│       │   │   │   └── terms.css
+│       │   │   ├── core
+│       │   │   │   ├── license.css
+│       │   │   │   ├── reset.css
+│       │   │   │   ├── theme-vars.css
+│       │   │   │   └── zmedia.css
+│       │   │   ├── extended
+│       │   │   │   └── blank.css
+│       │   │   └── includes
+│       │   │       ├── chroma-mod.css
+│       │   │       ├── chroma-styles.css
+│       │   │       └── scroll-bar.css
+│       │   └── js
+│       │       ├── fastsearch.js
+│       │       ├── fuse.basic.min.js
+│       │       └── license.js
+│       ├── go.mod
+│       ├── i18n
+│       │   ├── ar.yaml
+│       │   ├── be.yaml
+│       │   ├── bg.yaml
+│       │   ├── bn.yaml
+│       │   ├── ca.yaml
+│       │   ├── ckb.yaml
+│       │   ├── cs.yaml
+│       │   ├── da.yaml
+│       │   ├── de.yaml
+│       │   ├── el.yaml
+│       │   ├── en.yaml
+│       │   ├── eo.yaml
+│       │   ├── es.yaml
+│       │   ├── fa.yaml
+│       │   ├── fr.yaml
+│       │   ├── he.yaml
+│       │   ├── hi.yaml
+│       │   ├── hr.yaml
+│       │   ├── hu.yaml
+│       │   ├── id.yaml
+│       │   ├── it.yaml
+│       │   ├── ja.yaml
+│       │   ├── ko.yaml
+│       │   ├── ku.yaml
+│       │   ├── mn.yaml
+│       │   ├── ms.yaml
+│       │   ├── nl.yaml
+│       │   ├── no.yaml
+│       │   ├── oc.yaml
+│       │   ├── pa.yaml
+│       │   ├── pl.yaml
+│       │   ├── pnb.yaml
+│       │   ├── pt.yaml
+│       │   ├── ro.yaml
+│       │   ├── ru.yaml
+│       │   ├── sk.yaml
+│       │   ├── sv.yaml
+│       │   ├── sw.yaml
+│       │   ├── th.yaml
+│       │   ├── tr.yaml
+│       │   ├── uk.yaml
+│       │   ├── uz.yaml
+│       │   ├── vi.yaml
+│       │   ├── zh-tw.yaml
+│       │   └── zh.yaml
+│       ├── images
+│       │   ├── screenshot.png
+│       │   └── tn.png
+│       ├── layouts
+│       │   ├── .DS_Store
+│       │   ├── 404.html
+│       │   ├── _default
+│       │   │   ├── _markup
+│       │   │   │   └── render-image.html
+│       │   │   ├── archives.html
+│       │   │   ├── baseof.html
+│       │   │   ├── index.json
+│       │   │   ├── list.html
+│       │   │   ├── rss.xml
+│       │   │   ├── search.html
+│       │   │   ├── single.html
+│       │   │   └── terms.html
+│       │   ├── partials
+│       │   │   ├── anchored_headings.html
+│       │   │   ├── author.html
+│       │   │   ├── breadcrumbs.html
+│       │   │   ├── comments.html
+│       │   │   ├── cover.html
+│       │   │   ├── edit_post.html
+│       │   │   ├── extend_footer.html
+│       │   │   ├── extend_head.html
+│       │   │   ├── footer.html
+│       │   │   ├── head.html
+│       │   │   ├── header.html
+│       │   │   ├── home_info.html
+│       │   │   ├── index_profile.html
+│       │   │   ├── post_canonical.html
+│       │   │   ├── post_meta.html
+│       │   │   ├── post_nav_links.html
+│       │   │   ├── share_icons.html
+│       │   │   ├── social_icons.html
+│       │   │   ├── svg.html
+│       │   │   ├── templates
+│       │   │   │   ├── _funcs
+│       │   │   │   │   └── get-page-images.html
+│       │   │   │   ├── opengraph.html
+│       │   │   │   ├── schema_json.html
+│       │   │   │   └── twitter_cards.html
+│       │   │   ├── toc.html
+│       │   │   └── translation_list.html
+│       │   ├── robots.txt
+│       │   └── shortcodes
+│       │       ├── collapse.html
+│       │       ├── figure.html
+│       │       ├── inTextImg.html
+│       │       ├── ltr.html
+│       │       ├── rawhtml.html
+│       │       └── rtl.html
+│       └── theme.toml
+└── 🎨 Subjectives
+    ├── Beautiful Wonder.md
+    ├── October Sunset.md
+    ├── Prog 210818.md
+    ├── Sirens.md
+    ├── Till death do we ....md
+    ├── Woke my Heart.md
+    └── Wreckreations.md
+
+64 directories, 267 files
